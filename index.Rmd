@@ -1,9 +1,7 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Evaluation finale"
+author: "KAMBALE MULEKYA"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
-
-# Down the rabbit-hole
 
